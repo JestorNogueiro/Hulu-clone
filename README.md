@@ -11,3 +11,7 @@ ScreenShots:</br>
 
 Filter comedy movies:</br>
 ![image](https://user-images.githubusercontent.com/79025576/133553552-d685609b-d8bf-4e73-a07b-edc46632009f.png)
+</br>
+horror movies
+
+![Uploading image.png…]()
