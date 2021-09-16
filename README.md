@@ -8,3 +8,6 @@ Next Js, Tailwind CSS, TMDB API , ServerSideRendering
 
 ScreenShots:</br>
 ![image](https://user-images.githubusercontent.com/79025576/133552312-bb5edf22-93db-430a-9ec3-2dfce199a70c.png)
+
+Filter comedy movies:</br>
+![image](https://user-images.githubusercontent.com/79025576/133553552-d685609b-d8bf-4e73-a07b-edc46632009f.png)
